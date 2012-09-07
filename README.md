@@ -1,4 +1,7 @@
 cns3060-tristanUVU
 ==================
-
-This is the private repository for tristanUVU for 3060
+Tristan Wagstaff
+================== 
+Operating Systems Theroy
+3060-601
+tristanwagstaff@gmail.com
