@@ -1,6 +1,6 @@
 Project1-Make
-===============
+==============
 Tristan Wagstaff
 
 
-Had trouble, pushing had trouble commiting, had it going to the wrong origin master, couldn't change it, in the end I had to just wipe linux.
+I had a lot of trouble, because for some reason my origin got set to ninja coders and I couldn't fix it, I ended up reinstalling and redoing it.
