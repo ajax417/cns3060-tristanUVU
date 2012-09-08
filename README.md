@@ -1,5 +1,3 @@
-cns3060-tristanUVU
-==================
 Tristan Wagstaff
 ================== 
 Operating Systems Theroy
