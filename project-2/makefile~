@@ -1,0 +1,15 @@
+cleanrun: clean makerun
+
+run:
+	./project-2
+
+make run: make run
+
+make: compile
+	g++ project-2.o -o project-2
+
+compile: project-2.cpp
+	g++ -c project-2.cpp
+
+clean:
+	rm -rf *o project-2
