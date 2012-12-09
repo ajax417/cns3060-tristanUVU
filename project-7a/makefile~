@@ -1,7 +1,0 @@
-all: project-7a project-7b
-project-7a: project-7a.c
-	gcc -pthread -o project-7a project-7a.c
-project-7b: project-7b.c
-	gcc -pthread -o project-7b project-7b.c
-clean:
-	rm -rf *o project-7a project-7b
